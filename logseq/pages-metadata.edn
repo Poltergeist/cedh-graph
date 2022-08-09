@@ -1,15 +1,9 @@
 [{:block/name "a",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
- {:block/name "another example card",
-  :block/created-at 1659994237915,
-  :block/updated-at 1659994237915}
- {:block/name "aug 8th, 2022",
-  :block/created-at 1659988411211,
-  :block/updated-at 1659994609936}
  {:block/name "aug 9th, 2022",
-  :block/created-at 1659996263632,
-  :block/updated-at 1659996263632}
+  :block/created-at 1660022521751,
+  :block/updated-at 1660022521751}
  {:block/name "b",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
@@ -34,12 +28,6 @@
  {:block/name "done",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
- {:block/name "example card",
-  :block/created-at 1659994229995,
-  :block/updated-at 1659994251347}
- {:block/name "example deck",
-  :block/created-at 1659994203145,
-  :block/updated-at 1659994237916}
  {:block/name "favorites",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
@@ -52,6 +40,9 @@
  {:block/name "now",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
+ {:block/name "test ",
+  :block/created-at 1660080741246,
+  :block/updated-at 1660080741246}
  {:block/name "todo",
   :block/created-at 1659988415647,
   :block/updated-at 1659988415647}
